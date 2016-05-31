@@ -1,0 +1,11 @@
+body{
+  font-family:Arial;
+  font-size: 14px;
+  background-image: url('http://www.nocturnar.com/imagenes/fondos-de-pantalla-de-flores-rasta-fondo-de-clavel-rojo-en-fondos-y-pantallas-flores-552813.jpg');
+  background-size:100%;
+}
+
+#chart{margin-top:1em;
+	top: 100px;
+	text-align:center;
+}
